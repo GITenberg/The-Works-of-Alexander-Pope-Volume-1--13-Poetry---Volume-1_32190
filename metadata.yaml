@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/907
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32190#The-Works-of-Alexander-Pope-Volume-1--13-Poetry---Volume-1
 gutenberg_issued: '2010-05-02'
 gutenberg_type: Text
 identifiers:
